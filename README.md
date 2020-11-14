@@ -14,5 +14,5 @@ School Project - Error Analysis
 - MATLAB
 
 # How to use
--Run Mat509projectp1b.m and Mat509projectp2.m to generate plots
+- Run Mat509projectp1b.m and Mat509projectp2.m to generate plots
 
